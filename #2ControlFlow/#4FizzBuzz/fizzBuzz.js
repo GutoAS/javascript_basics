@@ -6,4 +6,4 @@ function fizzBuzz(input) {
   return input;
 }
 
-console.log(fizzBuzz(7));
+console.log(fizzBuzz(15));
